@@ -12,8 +12,7 @@ This repository documents my journey through the Stanford Machine Learning Speci
 ## 💻 Tech Stack
 - **Language:** Python
 - **Libraries:** NumPy, Matplotlib
-- **Target Hardware:** Mac Studio M4 Max (Optimized for high-performance computing)
-
+  
 ## 📈 Roadmap
 - [x] Week 1: Simple Linear Regression
 - [ ] Week 2: Multiple Linear Regression & Vectorization
