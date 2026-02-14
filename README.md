@@ -11,7 +11,7 @@ This repository documents my journey through the Stanford Machine Learning Speci
 
 ## 💻 Tech Stack
 - **Language:** Python
-- **Libraries:** NumPy, Matplotlib
+- **Libraries:** NumPy
   
 ## 📈 Roadmap
 - [x] Week 1: Simple Linear Regression
