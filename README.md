@@ -26,8 +26,7 @@ This repository documents my journey through the Stanford Machine Learning Speci
 
 ## 📈 Roadmap (Specialization Progress)
 - [x] **Course 1: Supervised Machine Learning: Regression and Classification**
-- [ ] Course 2: Advanced Learning Algorithms (Neural Networks, Decision Trees)
-- [ ] Course 3: Unsupervised Learning, Recommenders, Reinforcement Learning
+- [➔] **Transition:** Moving to the full **Deep Learning Specialization** for advanced neural architectures.
 
 ---
 *Completed the first certification of the Stanford Specialization. Moving towards Neural Networks next.*
