@@ -25,7 +25,7 @@ This repository documents my journey through the Stanford Machine Learning Speci
 - **Environment:** Jupyter Notebooks & Standalone Python Scripts
 
 ## 📈 Roadmap (Specialization Progress)
-- [x] **Course 1: Supervised Machine Learning: Regression and Classification**
+- [x] **Course: Supervised Machine Learning: Regression and Classification**
 - [➔] **Transition:** Moving to the full **Deep Learning Specialization** for advanced neural architectures.
 
 ---
